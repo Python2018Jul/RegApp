@@ -1,1 +1,1 @@
-# RegApp - sptrint-2
+# RegApp - Sprint-2
